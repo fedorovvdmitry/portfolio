@@ -93,7 +93,7 @@ footer {
 a {
     font-family: "Graphik";
     color: black;
-    font-size: 25px;
+    font-size: 2vw;
     font-weight: normal;
     text-decoration: none;
     width: max-content;
@@ -108,7 +108,7 @@ a:hover {
     padding: 5vw;
 }
 
-.projects div+div {
+.projects_container div+div {
     margin-top: 2vw;
 }
 
@@ -139,8 +139,9 @@ a:hover {
 .projects_info p {
     font-family: "Graphik";
     color: black;
-    font-size: 25px;
+    font-size: 2vw;
     font-weight: normal;
+    width: 35vw;
 }
 
 .projects_info p:nth-of-type(1) {
