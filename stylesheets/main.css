@@ -182,6 +182,14 @@ a:hover {
     height: 39vw;
 }
 
+.razbory1 {
+    background-image: url(../images/razbory1.png);
+}
+
+.razbory2 {
+    background-image: url(../images/razbory2.png);
+}
+
 .gagarin {
     background-image: url(../images/gagarin.png);
     height: 31vw;
