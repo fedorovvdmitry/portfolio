@@ -28,7 +28,11 @@
         align-items: flex-start;
         flex-direction: column;
     }
-    
+
+    .image_project {
+        width: 100%;
+    }
+
     footer {
         padding: 10vw;
     }
@@ -48,6 +52,10 @@
     .about_header {
         align-items: flex-start;
         flex-direction: column;
+    }
+
+    .image_project {
+        width: 100%;
     }
 
     footer {

@@ -108,6 +108,10 @@ a:hover {
     padding: 5vw;
 }
 
+.projects div+div {
+    margin-top: 2vw;
+}
+
 .projects_container {
     padding: 2vw;
     background-color: #E6E6E6;
@@ -125,7 +129,6 @@ a:hover {
     background-size: 100%;
     object-fit: cover;
     background-repeat: no-repeat;
-    margin-bottom: 18px;
 }
 
 .projects_info {
