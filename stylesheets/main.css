@@ -175,6 +175,7 @@ a:hover {
 
 .charger {
     background-image: url(../images/charger.png);
+    height: 39vw;
 }
 
 .kurs_new {
@@ -189,4 +190,10 @@ a:hover {
 .lider {
     background-image: url(../images/lider.png);
     height: 42vw;
+}
+
+.rosbank {
+    background-image: url(../images/rosbank.png);
+    height: 42vw;
+    width: 58%;
 }

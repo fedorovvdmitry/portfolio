@@ -58,6 +58,12 @@
         width: 100%;
     }
 
+    .rosbank {
+        width: 90%;
+        height: 66vw;
+        border-radius: 0px;
+    }
+
     footer {
         padding: 10vw;
     }
