@@ -184,5 +184,9 @@ a:hover {
 .gagarin {
     background-image: url(../images/gagarin.png);
     height: 31vw;
+}
 
+.lider {
+    background-image: url(../images/lider.png);
+    height: 42vw;
 }
