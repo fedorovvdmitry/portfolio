@@ -114,16 +114,17 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 .image_project {
-    /* border: solid #E1E1E1; */
     border-radius: 10px;
     width: 90%;
     height: 40vw;
     background-size: 100%;
     object-fit: cover;
     background-repeat: no-repeat;
+    margin-bottom: 18px;
 }
 
 .projects_info {
@@ -147,6 +148,36 @@ a:hover {
     padding: 0;
 }
 
+.menoe {
+    background-image: url(../images/menoe.png);
+}
+
+.kurs_1 {
+    background-image: url(../images/kurs1.png);
+}
+
+.kurs_1_2 {
+    background-image: url(../images/kurs1_2.png);
+}
+
+.tabel {
+    background-image: url(../images/tabel.png);
+}
+
+.greenstd {
+    background-image: url(../images/greenstd.png);
+}
+
+.charger {
+    background-image: url(../images/charger.png);
+}
+
 .kurs_new {
     background-image: url(../images/kurs2.png);
+}
+
+.gagarin {
+    background-image: url(../images/gagarin.png);
+    height: 31vw;
+
 }
