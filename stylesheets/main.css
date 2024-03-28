@@ -96,6 +96,7 @@ a {
     font-size: 25px;
     font-weight: normal;
     text-decoration: none;
+    width: max-content;
     padding: 0 8px;
 }
 

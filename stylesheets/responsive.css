@@ -28,6 +28,10 @@
         align-items: flex-start;
         flex-direction: column;
     }
+    
+    footer {
+        padding: 10vw;
+    }
 }
 
 @media screen and (max-width: 414px) and (min-width: 320px) {
@@ -44,6 +48,10 @@
     .about_header {
         align-items: flex-start;
         flex-direction: column;
+    }
+
+    footer {
+        padding: 10vw;
     }
 }
 
