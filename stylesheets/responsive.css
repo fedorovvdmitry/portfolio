@@ -44,6 +44,14 @@
         width: min-content;
     }
 
+    .projects_info p {
+        font-size: 5vw;
+    }
+
+    .projects_info a {
+        font-size: 5vw;
+    }
+
     .about_me {
         width: 90%;
         margin: 5vw auto 0;
