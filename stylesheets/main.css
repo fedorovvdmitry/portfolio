@@ -169,6 +169,20 @@ a:hover {
     background-repeat: no-repeat;
 }
 
+/* .image_project:nth-last-child(1) {
+    border-radius: 0 0 10px 10px;
+    margin: 0;
+}
+
+.search_bar {
+    width: 90%;
+    height: 2.7vw;
+    background-image: url(../images/search_bar.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+} */
+
 .projects_info {
     display: flex;
     justify-content: space-between;
@@ -193,6 +207,20 @@ a:hover {
 
 .menoe {
     background-image: url(../images/menoe.png);
+    animation: menoe 12s ease-in-out alternate infinite;
+}
+
+.menoe:hover {
+    animation-play-state: paused;
+}
+
+@keyframes menoe {
+    20% {
+        background-position: top;
+    }
+    100% {
+        background-position: bottom;
+    }
 }
 
 .kurs_1 {
