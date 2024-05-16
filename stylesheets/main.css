@@ -88,9 +88,14 @@ header a {
     margin-bottom: 16px;
 }
 
+.pp {
+    background-image: url(../images/pp.svg);
+    background-size: 60%;
+}
+
 .kvantorium {
     background-image: url(../images/kvantorium.svg);
-    background-size: 60%;
+    background-size: 55%;
 }
 
 .totaldict {
